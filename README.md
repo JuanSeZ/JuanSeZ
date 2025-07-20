@@ -1,5 +1,5 @@
 # 💫 About Me:
-🫡 Hi, Im @JuanSeZ<br>🔭I'm a fourth-year Software Engineering student at Universidad Austral.<br>💻 I'm currently working at Sirius Software<br>💬 To reach me, please send an email to [zanelli38@gmail.com](mailto:zanelli38@gmail.com)<br>
+🫡 Hi, Im @JuanSeZ<br>🔭I'm a fifth-year Software Engineering student at Universidad Austral.<br>💻 I'm currently working at Code54<br>💬 To reach me, please send an email to [zanelli38@gmail.com](mailto:zanelli38@gmail.com)<br>
 
 
 ## 🌐 Socials:
